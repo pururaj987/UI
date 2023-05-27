@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    font-family: "Red Rose", cursive;
+    
+  }
+
+  .list-item {
+    font-size: 2rem;
+    font-weight: 400;
+    color: red;
+  }
+
+  
